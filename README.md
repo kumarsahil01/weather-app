@@ -9,7 +9,7 @@ This is a simple React weather app that uses the OpenWeather API to display weat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-weather-app.git
+   git clone https://github.com/kumarsahil01/weather-app.git
 
 
 2. Navigate to the project directory
